@@ -1,0 +1,1 @@
+WRAPROWS and WRAPCOLS are both excel functions of office365 and not available in any other version. so you can download this addins and you weill get the same features in your Excel. You can use it in 2007 and above version of Excel.
